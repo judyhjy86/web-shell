@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://judyhjy86.github.io/web-shell/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://judyhjy86.github.io/web-shell/</loc>
+</url>
+<url>
+<loc>https://judyhjy86.github.io/web-shell/about.html</loc>
+<lastmod>2021-11-01T17:33:18-07:00</lastmod>
+<image:image>
+<image:loc>https://judyhjy86.github.io/web-shell/media/posts/4/741635812935_.pic_hd.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://judyhjy86.github.io/web-shell/media/posts/4/731635812928_.pic_hd.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://judyhjy86.github.io/web-shell/during-the-pandemic.html</loc>
+<lastmod>2021-11-01T12:19:02-07:00</lastmod>
+</url>
+<url>
+<loc>https://judyhjy86.github.io/web-shell/dusk-till-dawn-our-covid-stories.html</loc>
+<lastmod>2021-11-01T17:38:56-07:00</lastmod>
+</url>
+<url>
+<loc>https://judyhjy86.github.io/web-shell/post-pandemic.html</loc>
+<lastmod>2021-11-01T12:19:05-07:00</lastmod>
+</url>
+<url>
+<loc>https://judyhjy86.github.io/web-shell/reflections.html</loc>
+<lastmod>2021-11-01T12:19:34-07:00</lastmod>
+</url>
+<url>
+<loc>https://judyhjy86.github.io/web-shell/the-stories.html</loc>
+<lastmod>2021-11-01T18:03:42-07:00</lastmod>
+</url>
+</urlset>
