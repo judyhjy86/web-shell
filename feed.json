@@ -13,13 +13,15 @@
             "id": "https://judyhjy86.github.io/web-shell/reflections.html",
             "url": "https://judyhjy86.github.io/web-shell/reflections.html",
             "title": "Reflections",
+            "summary": "Reflections of the project will be put here. ",
+            "content_html": "<p>Reflections of the project will be put here. </p>",
             "author": {
                 "name": "Judy He and Jessica Xia"
             },
             "tags": [
             ],
             "date_published": "2021-11-01T12:19:34-07:00",
-            "date_modified": "2021-11-01T12:19:34-07:00"
+            "date_modified": "2021-11-01T21:39:59-07:00"
         },
         {
             "id": "https://judyhjy86.github.io/web-shell/post-pandemic.html",
@@ -63,15 +65,15 @@
             "id": "https://judyhjy86.github.io/web-shell/the-stories.html",
             "url": "https://judyhjy86.github.io/web-shell/the-stories.html",
             "title": "Body of the story",
-            "summary": " The Outbreak Pandemic Ongoing Post-Pandemic We will present our covid stories with a writing narrative, pictures, videos, word cloud, data visualizations, audios,&hellip;",
-            "content_html": "<!-- Side navigation -->\n<div class=\"sidenav\">\n<aside class=\"sticky\"><a href=\"#\">The Outbreak</a></aside>\n<aside class=\"sticky\"><a href=\"#\">Pandemic Ongoing</a></aside>\n<aside class=\"sticky\"><a href=\"#\">Post-Pandemic</a></aside>\n<aside></aside>\n<section></section>\n<section></section>\n<section>We will present our covid stories with a writing narrative, pictures, videos, word cloud, data visualizations, audios, etc.</section>\n<section></section>\n<section>We envision some parts of the web layout to be a juxtaposition of two columns, each demonstrating the different lifestyles we wish to show, while the other parts being a cohesive body of tex and images. </section>\n<section></section>\n<section>We also plan to add a sticky side bar to navigate the readers through the digital story. </section>\n<section></section>\n<section><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://judyhjy86.github.io/web-shell/media/posts/3/hayatt-zw-WmFpR8ETFiE-unsplash.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://judyhjy86.github.io/web-shell/media/posts/3/responsive/hayatt-zw-WmFpR8ETFiE-unsplash-xs.jpg 300w ,https://judyhjy86.github.io/web-shell/media/posts/3/responsive/hayatt-zw-WmFpR8ETFiE-unsplash-sm.jpg 480w ,https://judyhjy86.github.io/web-shell/media/posts/3/responsive/hayatt-zw-WmFpR8ETFiE-unsplash-md.jpg 768w ,https://judyhjy86.github.io/web-shell/media/posts/3/responsive/hayatt-zw-WmFpR8ETFiE-unsplash-lg.jpg 1024w ,https://judyhjy86.github.io/web-shell/media/posts/3/responsive/hayatt-zw-WmFpR8ETFiE-unsplash-xl.jpg 1360w ,https://judyhjy86.github.io/web-shell/media/posts/3/responsive/hayatt-zw-WmFpR8ETFiE-unsplash-2xl.jpg 1600w\"  alt=\"\" width=\"3456\" height=\"4608\"></figure></section>\n</div>",
+            "summary": " The Outbreak Pandemic Ongoing Post-Pandemic We will present our covid stories in a multimedia manner with approaches including writing narrative, pictures, videos,&hellip;",
+            "content_html": "<!-- Side navigation -->\n<div class=\"sidenav\">\n<aside class=\"sticky\"><a href=\"#\">The Outbreak</a></aside>\n<aside class=\"sticky\"><a href=\"#\">Pandemic Ongoing</a></aside>\n<aside class=\"sticky\"><a href=\"#\">Post-Pandemic</a></aside>\n<aside></aside>\n<aside></aside>\n<section></section>\n<section></section>\n<section>We will present our covid stories in a multimedia manner with approaches including writing narrative, pictures, videos, word cloud, data visualizations, audio clips, etc.</section>\n<section></section>\n<section></section>\n<section>We envision some parts of the storytelling web layout to be a juxtaposition of two columns, each demonstrating the different lifestyles we wish to show, while the other parts being a cohesive body of text and images. </section>\n<section></section>\n<section></section>\n<section>We also plan to add a sticky side bar to help navigate the readers through the digital story so that they can jump to the part(s) they wish to see. </section>\n<section></section>\n<section></section>\n<section><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://judyhjy86.github.io/web-shell/media/posts/3/hayatt-zw-WmFpR8ETFiE-unsplash.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://judyhjy86.github.io/web-shell/media/posts/3/responsive/hayatt-zw-WmFpR8ETFiE-unsplash-xs.jpg 300w ,https://judyhjy86.github.io/web-shell/media/posts/3/responsive/hayatt-zw-WmFpR8ETFiE-unsplash-sm.jpg 480w ,https://judyhjy86.github.io/web-shell/media/posts/3/responsive/hayatt-zw-WmFpR8ETFiE-unsplash-md.jpg 768w ,https://judyhjy86.github.io/web-shell/media/posts/3/responsive/hayatt-zw-WmFpR8ETFiE-unsplash-lg.jpg 1024w ,https://judyhjy86.github.io/web-shell/media/posts/3/responsive/hayatt-zw-WmFpR8ETFiE-unsplash-xl.jpg 1360w ,https://judyhjy86.github.io/web-shell/media/posts/3/responsive/hayatt-zw-WmFpR8ETFiE-unsplash-2xl.jpg 1600w\"  alt=\"\" width=\"3456\" height=\"4608\"></figure></section>\n</div>",
             "author": {
                 "name": "Judy He and Jessica Xia"
             },
             "tags": [
             ],
             "date_published": "2021-11-01T12:15:28-07:00",
-            "date_modified": "2021-11-01T18:31:14-07:00"
+            "date_modified": "2021-11-01T21:39:32-07:00"
         },
         {
             "id": "https://judyhjy86.github.io/web-shell/dusk-till-dawn-our-covid-stories.html",
