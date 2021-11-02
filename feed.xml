@@ -3,7 +3,7 @@
     <title>Digital Storytelling Final Project</title>
     <link href="https://judyhjy86.github.io/web-shell/feed.xml" rel="self" />
     <link href="https://judyhjy86.github.io/web-shell" />
-    <updated>2021-11-01T18:03:42-07:00</updated>
+    <updated>2021-11-01T18:31:14-07:00</updated>
     <author>
         <name>Judy He and Jessica Xia</name>
     </author>
@@ -84,10 +84,10 @@
         <link href="https://judyhjy86.github.io/web-shell/the-stories.html"/>
         <id>https://judyhjy86.github.io/web-shell/the-stories.html</id>
 
-        <updated>2021-11-01T18:03:42-07:00</updated>
+        <updated>2021-11-01T18:31:14-07:00</updated>
             <summary>
                 <![CDATA[
-                     The Outbreak Pandemic Ongoing Post-Pandemic The story 
+                     The Outbreak Pandemic Ongoing Post-Pandemic We will present our covid stories with a writing narrative, pictures, videos, word cloud, data visualizations, audios,&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -97,8 +97,16 @@
 <aside class="sticky"><a href="#">The Outbreak</a></aside>
 <aside class="sticky"><a href="#">Pandemic Ongoing</a></aside>
 <aside class="sticky"><a href="#">Post-Pandemic</a></aside>
+<aside></aside>
 <section></section>
-<section>The story</section>
+<section></section>
+<section>We will present our covid stories with a writing narrative, pictures, videos, word cloud, data visualizations, audios, etc.</section>
+<section></section>
+<section>We envision some parts of the web layout to be a juxtaposition of two columns, each demonstrating the different lifestyles we wish to show, while the other parts being a cohesive body of tex and images. </section>
+<section></section>
+<section>We also plan to add a sticky side bar to navigate the readers through the digital story. </section>
+<section></section>
+<section><figure class="post__image"><img loading="lazy"  src="https://judyhjy86.github.io/web-shell/media/posts/3/hayatt-zw-WmFpR8ETFiE-unsplash.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://judyhjy86.github.io/web-shell/media/posts/3/responsive/hayatt-zw-WmFpR8ETFiE-unsplash-xs.jpg 300w ,https://judyhjy86.github.io/web-shell/media/posts/3/responsive/hayatt-zw-WmFpR8ETFiE-unsplash-sm.jpg 480w ,https://judyhjy86.github.io/web-shell/media/posts/3/responsive/hayatt-zw-WmFpR8ETFiE-unsplash-md.jpg 768w ,https://judyhjy86.github.io/web-shell/media/posts/3/responsive/hayatt-zw-WmFpR8ETFiE-unsplash-lg.jpg 1024w ,https://judyhjy86.github.io/web-shell/media/posts/3/responsive/hayatt-zw-WmFpR8ETFiE-unsplash-xl.jpg 1360w ,https://judyhjy86.github.io/web-shell/media/posts/3/responsive/hayatt-zw-WmFpR8ETFiE-unsplash-2xl.jpg 1600w"  alt="" width="3456" height="4608"></figure></section>
 </div>
             ]]>
         </content>
@@ -111,7 +119,7 @@
         <link href="https://judyhjy86.github.io/web-shell/dusk-till-dawn-our-covid-stories.html"/>
         <id>https://judyhjy86.github.io/web-shell/dusk-till-dawn-our-covid-stories.html</id>
 
-        <updated>2021-11-01T17:38:56-07:00</updated>
+        <updated>2021-11-01T18:26:00-07:00</updated>
             <summary>
                 <![CDATA[
                      These so-called bleak times are necessary to go through in order to get to a much, much better place.” ― David Lynch&hellip;
@@ -129,10 +137,11 @@
 <p> </p>
 <p class="align-center"><a href="https://judyhjy86.github.io/web-shell/the-stories.html" class="button">Full Story</a></p>
 <p> </p>
-<div class="gallery-wrapper gallery-wrapper--full"><div class="gallery" data-is-empty="false" data-columns="3" data-pswp-uid="1">
-<figure class="gallery__item"><a href="https://demo.getpublii.com/themes/massively/media/posts/1/gallery/oleg-yeltsov-8zKCsiPHcSA-unsplash.jpg" data-size="2848x4288"><img loading="lazy" src="https://demo.getpublii.com/themes/massively/media/posts/1/gallery/oleg-yeltsov-8zKCsiPHcSA-unsplash-thumbnail.jpg" data-is-external-image="true"  alt="" width="720" height="1084"></a></figure>
-<figure class="gallery__item"><a href="https://demo.getpublii.com/themes/massively/media/posts/1/gallery/sidney-pearce-k4nzabCR3G8-unsplash.jpg" data-size="2592x3888"><img loading="lazy" src="https://demo.getpublii.com/themes/massively/media/posts/1/gallery/sidney-pearce-k4nzabCR3G8-unsplash-thumbnail.jpg" data-is-external-image="true"  alt="Alt text" width="720" height="1080"></a></figure>
-<figure class="gallery__item"><a href="https://demo.getpublii.com/themes/massively/media/posts/1/gallery/sidney-pearce-k4nzabCR3G8-unsplash.jpg" data-size="2592x3888"><img loading="lazy" src="https://demo.getpublii.com/themes/massively/media/posts/1/gallery/sidney-pearce-k4nzabCR3G8-unsplash-thumbnail.jpg" data-is-external-image="true"  alt="Alt text" width="720" height="1080"></a></figure>
+<div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery" data-is-empty="false" data-columns="2" data-pswp-uid="1">
+<figure class="gallery__item"><a href="https://judyhjy86.github.io/web-shell/media/posts/1/gallery/aljoscha-laschgari-F2tZmxGtrX8-unsplash.jpg" data-size="6000x4000"><img loading="lazy" src="https://judyhjy86.github.io/web-shell/media/posts/1/gallery/aljoscha-laschgari-F2tZmxGtrX8-unsplash-thumbnail.jpg" alt="" width="1440" height="960"></a></figure>
+<figure class="gallery__item"><a href="https://judyhjy86.github.io/web-shell/media/posts/1/gallery/keith-chan-rTv2jBfQoWk-unsplash.jpg" data-size="6000x4000"><img loading="lazy" src="https://judyhjy86.github.io/web-shell/media/posts/1/gallery/keith-chan-rTv2jBfQoWk-unsplash-thumbnail.jpg" alt="" width="1440" height="960"></a></figure>
+<figure class="gallery__item"><a href="https://judyhjy86.github.io/web-shell/media/posts/1/gallery/jacek-poblocki-QiO3dBQuPtg-unsplash.jpg" data-size="6000x4000"><img loading="lazy" src="https://judyhjy86.github.io/web-shell/media/posts/1/gallery/jacek-poblocki-QiO3dBQuPtg-unsplash-thumbnail.jpg" alt="" width="1440" height="960"></a></figure>
+<figure class="gallery__item"><a href="https://judyhjy86.github.io/web-shell/media/posts/1/gallery/tim-marshall-AtbAMeNzQmE-unsplash.jpg" data-size="5184x3456"><img loading="lazy" src="https://judyhjy86.github.io/web-shell/media/posts/1/gallery/tim-marshall-AtbAMeNzQmE-unsplash-thumbnail.jpg" alt="" width="720" height="480"></a></figure>
 </div></div>
             ]]>
         </content>
