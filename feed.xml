@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Digital Storytelling Final Project</title>
-    <link href="https://judyhjy86.github.io/web-shell/feed.xml" rel="self" />
-    <link href="https://judyhjy86.github.io/web-shell" />
+    <link href="https://ourcovidstories.github.io/dusk-till-dawn/feed.xml" rel="self" />
+    <link href="https://ourcovidstories.github.io/dusk-till-dawn" />
     <updated>2021-12-06T19:00:21-08:00</updated>
     <author>
         <name>Judy He and Jessica Xia</name>
     </author>
-    <id>https://judyhjy86.github.io/web-shell</id>
+    <id>https://ourcovidstories.github.io/dusk-till-dawn</id>
 
     <entry>
         <title>Reflections</title>
         <author>
             <name>Judy He and Jessica Xia</name>
         </author>
-        <link href="https://judyhjy86.github.io/web-shell/reflections.html"/>
-        <id>https://judyhjy86.github.io/web-shell/reflections.html</id>
+        <link href="https://ourcovidstories.github.io/dusk-till-dawn/reflections.html"/>
+        <id>https://ourcovidstories.github.io/dusk-till-dawn/reflections.html</id>
 
         <updated>2021-12-06T14:14:59-08:00</updated>
             <summary>
@@ -33,8 +33,8 @@
 <p>Judy and Jessica</p>
 <p>December 2021 in Los Angeles</p>
 <div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-columns="2">
-<figure class="gallery__item"><a href="https://judyhjy86.github.io/web-shell/media/posts/7/gallery/6701638770772_.pic.jpg" data-size="1280x1280"><img loading="lazy" src="https://judyhjy86.github.io/web-shell/media/posts/7/gallery/6701638770772_.pic-thumbnail.jpg" alt="" width="720" height="720"></a></figure>
-<figure class="gallery__item"><a href="https://judyhjy86.github.io/web-shell/media/posts/7/gallery/6711638770774_.pic.jpg" data-size="1278x1278"><img loading="lazy" src="https://judyhjy86.github.io/web-shell/media/posts/7/gallery/6711638770774_.pic-thumbnail.jpg" alt="" width="720" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://ourcovidstories.github.io/dusk-till-dawn/media/posts/7/gallery/6701638770772_.pic.jpg" data-size="1280x1280"><img loading="lazy" src="https://ourcovidstories.github.io/dusk-till-dawn/media/posts/7/gallery/6701638770772_.pic-thumbnail.jpg" alt="" width="720" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://ourcovidstories.github.io/dusk-till-dawn/media/posts/7/gallery/6711638770774_.pic.jpg" data-size="1278x1278"><img loading="lazy" src="https://ourcovidstories.github.io/dusk-till-dawn/media/posts/7/gallery/6711638770774_.pic-thumbnail.jpg" alt="" width="720" height="720"></a></figure>
 </div></div>
             ]]>
         </content>
@@ -44,8 +44,8 @@
         <author>
             <name>Judy He and Jessica Xia</name>
         </author>
-        <link href="https://judyhjy86.github.io/web-shell/post-pandemic.html"/>
-        <id>https://judyhjy86.github.io/web-shell/post-pandemic.html</id>
+        <link href="https://ourcovidstories.github.io/dusk-till-dawn/post-pandemic.html"/>
+        <id>https://ourcovidstories.github.io/dusk-till-dawn/post-pandemic.html</id>
 
         <updated>2021-11-01T12:19:05-07:00</updated>
             <summary></summary>
@@ -56,8 +56,8 @@
         <author>
             <name>Judy He and Jessica Xia</name>
         </author>
-        <link href="https://judyhjy86.github.io/web-shell/during-the-pandemic.html"/>
-        <id>https://judyhjy86.github.io/web-shell/during-the-pandemic.html</id>
+        <link href="https://ourcovidstories.github.io/dusk-till-dawn/during-the-pandemic.html"/>
+        <id>https://ourcovidstories.github.io/dusk-till-dawn/during-the-pandemic.html</id>
 
         <updated>2021-11-01T12:19:02-07:00</updated>
             <summary></summary>
@@ -68,8 +68,8 @@
         <author>
             <name>Judy He and Jessica Xia</name>
         </author>
-        <link href="https://judyhjy86.github.io/web-shell/about.html"/>
-        <id>https://judyhjy86.github.io/web-shell/about.html</id>
+        <link href="https://ourcovidstories.github.io/dusk-till-dawn/about.html"/>
+        <id>https://ourcovidstories.github.io/dusk-till-dawn/about.html</id>
 
         <updated>2021-12-06T14:16:56-08:00</updated>
             <summary>
@@ -79,14 +79,14 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image post__image--right"><img loading="lazy"  src="https://judyhjy86.github.io/web-shell/media/posts/4/741635812935_.pic_hd.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://judyhjy86.github.io/web-shell/media/posts/4/responsive/741635812935_.pic_hd-xs.jpg 300w ,https://judyhjy86.github.io/web-shell/media/posts/4/responsive/741635812935_.pic_hd-sm.jpg 480w ,https://judyhjy86.github.io/web-shell/media/posts/4/responsive/741635812935_.pic_hd-md.jpg 768w ,https://judyhjy86.github.io/web-shell/media/posts/4/responsive/741635812935_.pic_hd-lg.jpg 1024w ,https://judyhjy86.github.io/web-shell/media/posts/4/responsive/741635812935_.pic_hd-xl.jpg 1360w ,https://judyhjy86.github.io/web-shell/media/posts/4/responsive/741635812935_.pic_hd-2xl.jpg 1600w"  alt="" width="300" height="400"></figure>
+                <figure class="post__image post__image--right"><img loading="lazy"  src="https://ourcovidstories.github.io/dusk-till-dawn/media/posts/4/741635812935_.pic_hd.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://ourcovidstories.github.io/dusk-till-dawn/media/posts/4/responsive/741635812935_.pic_hd-xs.jpg 300w ,https://ourcovidstories.github.io/dusk-till-dawn/media/posts/4/responsive/741635812935_.pic_hd-sm.jpg 480w ,https://ourcovidstories.github.io/dusk-till-dawn/media/posts/4/responsive/741635812935_.pic_hd-md.jpg 768w ,https://ourcovidstories.github.io/dusk-till-dawn/media/posts/4/responsive/741635812935_.pic_hd-lg.jpg 1024w ,https://ourcovidstories.github.io/dusk-till-dawn/media/posts/4/responsive/741635812935_.pic_hd-xl.jpg 1360w ,https://ourcovidstories.github.io/dusk-till-dawn/media/posts/4/responsive/741635812935_.pic_hd-2xl.jpg 1600w"  alt="" width="300" height="400"></figure>
 <h3> </h3>
 <h3><strong>Jiayun(Judy) He</strong></h3>
 <p><em><span style="font-weight: 400;">Jiayun (Judy) He is a third-year cognitive science and sociology student with digitial humanities and film minors at UCLA. Judy works on designing the frame of the website and narrative of the interactive story for this project.</span></em></p>
 <p> </p>
 <p> </p>
 <p> </p>
-<figure class="post__image post__image--left"><img loading="lazy"  src="https://judyhjy86.github.io/web-shell/media/posts/4/731635812928_.pic_hd.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://judyhjy86.github.io/web-shell/media/posts/4/responsive/731635812928_.pic_hd-xs.jpg 300w ,https://judyhjy86.github.io/web-shell/media/posts/4/responsive/731635812928_.pic_hd-sm.jpg 480w ,https://judyhjy86.github.io/web-shell/media/posts/4/responsive/731635812928_.pic_hd-md.jpg 768w ,https://judyhjy86.github.io/web-shell/media/posts/4/responsive/731635812928_.pic_hd-lg.jpg 1024w ,https://judyhjy86.github.io/web-shell/media/posts/4/responsive/731635812928_.pic_hd-xl.jpg 1360w ,https://judyhjy86.github.io/web-shell/media/posts/4/responsive/731635812928_.pic_hd-2xl.jpg 1600w"  alt="" width="300" height="400"></figure>
+<figure class="post__image post__image--left"><img loading="lazy"  src="https://ourcovidstories.github.io/dusk-till-dawn/media/posts/4/731635812928_.pic_hd.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://ourcovidstories.github.io/dusk-till-dawn/media/posts/4/responsive/731635812928_.pic_hd-xs.jpg 300w ,https://ourcovidstories.github.io/dusk-till-dawn/media/posts/4/responsive/731635812928_.pic_hd-sm.jpg 480w ,https://ourcovidstories.github.io/dusk-till-dawn/media/posts/4/responsive/731635812928_.pic_hd-md.jpg 768w ,https://ourcovidstories.github.io/dusk-till-dawn/media/posts/4/responsive/731635812928_.pic_hd-lg.jpg 1024w ,https://ourcovidstories.github.io/dusk-till-dawn/media/posts/4/responsive/731635812928_.pic_hd-xl.jpg 1360w ,https://ourcovidstories.github.io/dusk-till-dawn/media/posts/4/responsive/731635812928_.pic_hd-2xl.jpg 1600w"  alt="" width="300" height="400"></figure>
 <h3> </h3>
 <p> </p>
 <h3 class="align-left"><span style="font-weight: 400;"><strong>Zhengbai (Jessica) Xia</strong></span></h3>
@@ -100,8 +100,8 @@
         <author>
             <name>Judy He and Jessica Xia</name>
         </author>
-        <link href="https://judyhjy86.github.io/web-shell/the-stories.html"/>
-        <id>https://judyhjy86.github.io/web-shell/the-stories.html</id>
+        <link href="https://ourcovidstories.github.io/dusk-till-dawn/the-stories.html"/>
+        <id>https://ourcovidstories.github.io/dusk-till-dawn/the-stories.html</id>
 
         <updated>2021-12-05T21:42:39-08:00</updated>
             <summary>
@@ -130,8 +130,8 @@
         <author>
             <name>Judy He and Jessica Xia</name>
         </author>
-        <link href="https://judyhjy86.github.io/web-shell/dusk-till-dawn-our-covid-stories.html"/>
-        <id>https://judyhjy86.github.io/web-shell/dusk-till-dawn-our-covid-stories.html</id>
+        <link href="https://ourcovidstories.github.io/dusk-till-dawn/dusk-till-dawn-our-covid-stories.html"/>
+        <id>https://ourcovidstories.github.io/dusk-till-dawn/dusk-till-dawn-our-covid-stories.html</id>
 
         <updated>2021-12-06T19:00:21-08:00</updated>
             <summary>
@@ -152,10 +152,10 @@
 <p class="align-center"><a href="https://judyhjy86.github.io/revised-twine1/" class="button">Play our Interactive Digital Story </a></p>
 <p> </p>
 <div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery" data-is-empty="false" data-columns="2" data-pswp-uid="1">
-<figure class="gallery__item"><a href="https://judyhjy86.github.io/web-shell/media/posts/1/gallery/aljoscha-laschgari-F2tZmxGtrX8-unsplash.jpg" data-size="6000x4000"><img loading="lazy" src="https://judyhjy86.github.io/web-shell/media/posts/1/gallery/aljoscha-laschgari-F2tZmxGtrX8-unsplash-thumbnail.jpg" alt="" width="1440" height="960"></a></figure>
-<figure class="gallery__item"><a href="https://judyhjy86.github.io/web-shell/media/posts/1/gallery/keith-chan-rTv2jBfQoWk-unsplash.jpg" data-size="6000x4000"><img loading="lazy" src="https://judyhjy86.github.io/web-shell/media/posts/1/gallery/keith-chan-rTv2jBfQoWk-unsplash-thumbnail.jpg" alt="" width="1440" height="960"></a></figure>
-<figure class="gallery__item"><a href="https://judyhjy86.github.io/web-shell/media/posts/1/gallery/jacek-poblocki-QiO3dBQuPtg-unsplash.jpg" data-size="6000x4000"><img loading="lazy" src="https://judyhjy86.github.io/web-shell/media/posts/1/gallery/jacek-poblocki-QiO3dBQuPtg-unsplash-thumbnail.jpg" alt="" width="1440" height="960"></a></figure>
-<figure class="gallery__item"><a href="https://judyhjy86.github.io/web-shell/media/posts/1/gallery/tim-marshall-AtbAMeNzQmE-unsplash.jpg" data-size="5184x3456"><img loading="lazy" src="https://judyhjy86.github.io/web-shell/media/posts/1/gallery/tim-marshall-AtbAMeNzQmE-unsplash-thumbnail.jpg" alt="" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://ourcovidstories.github.io/dusk-till-dawn/media/posts/1/gallery/aljoscha-laschgari-F2tZmxGtrX8-unsplash.jpg" data-size="6000x4000"><img loading="lazy" src="https://ourcovidstories.github.io/dusk-till-dawn/media/posts/1/gallery/aljoscha-laschgari-F2tZmxGtrX8-unsplash-thumbnail.jpg" alt="" width="1440" height="960"></a></figure>
+<figure class="gallery__item"><a href="https://ourcovidstories.github.io/dusk-till-dawn/media/posts/1/gallery/keith-chan-rTv2jBfQoWk-unsplash.jpg" data-size="6000x4000"><img loading="lazy" src="https://ourcovidstories.github.io/dusk-till-dawn/media/posts/1/gallery/keith-chan-rTv2jBfQoWk-unsplash-thumbnail.jpg" alt="" width="1440" height="960"></a></figure>
+<figure class="gallery__item"><a href="https://ourcovidstories.github.io/dusk-till-dawn/media/posts/1/gallery/jacek-poblocki-QiO3dBQuPtg-unsplash.jpg" data-size="6000x4000"><img loading="lazy" src="https://ourcovidstories.github.io/dusk-till-dawn/media/posts/1/gallery/jacek-poblocki-QiO3dBQuPtg-unsplash-thumbnail.jpg" alt="" width="1440" height="960"></a></figure>
+<figure class="gallery__item"><a href="https://ourcovidstories.github.io/dusk-till-dawn/media/posts/1/gallery/tim-marshall-AtbAMeNzQmE-unsplash.jpg" data-size="5184x3456"><img loading="lazy" src="https://ourcovidstories.github.io/dusk-till-dawn/media/posts/1/gallery/tim-marshall-AtbAMeNzQmE-unsplash-thumbnail.jpg" alt="" width="720" height="480"></a></figure>
 </div></div>
             ]]>
         </content>
